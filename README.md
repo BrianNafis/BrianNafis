@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=hi%20I'am%20Brian%20Nafis&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=...&descSize=18&descAlignY=55&textBg=false"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=hi%20yow" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Brian Nafis">
+    <img src="https://komarev.com/ghpvc/?username=Brian Nafis&label=Profile%20views&color=00FFFF&style=flat-square" alt="Brian Nafis's profile views" />
+  </a>
+</p>
 
 <h3 align="center">A passionate with Data</h3>
 

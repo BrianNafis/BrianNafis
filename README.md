@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20works%20on%20my%20machine" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20works%20on%20my%20machine ..." alt="Typing introduction" />
 </p>
 
 

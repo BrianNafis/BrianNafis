@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Brian Nafis">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian Nafis&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
@@ -122,4 +122,18 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briannafis&show_icons=true&locale=en" alt="briannafis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briannafis&" alt="briannafis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briannafis&" alt="briannafis" /></p>-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20works%20on%20my%20machine" alt="Typing introduction" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianNafis&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNafis&theme=algolia&layout=compact" alt="Top Languages" />
+</p>

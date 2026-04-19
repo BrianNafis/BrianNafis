@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">A passionate with Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briannafis&label=Profile%20views&color=0e75b6&style=flat" alt="briannafis" /> </p>
 
@@ -40,9 +39,25 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mbrnfs@gmail.com**
 
+
+## 🧠 My Focus Areas
+- AI/ML Research
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://id.linkedin.com/in/brian-nafis-917454216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian nafis" height="30" width="40" /></a>
+</p>
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Brian Nafis">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian Nafis&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Brian Nafis's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Brian Nafis&theme=radical&hide_border=true&cache_seconds=86400" alt="Brian Nafis's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Brian Nafis&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="hi I'am Brian Nafis's GitHub Trophies" />
 </p>
 
 <h3 align="left">🛠 Language and tools</h3>

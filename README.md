@@ -130,10 +130,17 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- Stats Card pakai chartreuse-dark -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianNafis&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianNafis&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 
+<!-- Top Languages Card pakai chartreuse-dark -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNafis&theme=algolia&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNafis&theme=chartreuse-dark&layout=compact" alt="Top Languages" />
+</p>
+
+<!-- Repo Card (Contoh) pakai algolia -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrianNafis&repo=namarepomu&theme=algolia" alt="Repo Card" />
 </p>

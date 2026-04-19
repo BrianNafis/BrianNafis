@@ -125,22 +125,15 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briannafis&" alt="briannafis" /></p>-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=It%20works%20on%20my%20machine" alt="Typing introduction" />
+  <a href="https://github.com/BrianNafis">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrianNafis&langs_count=8&layout=compact&theme=algolia&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-<br/>
-
-<!-- Stats Card pakai chartreuse-dark -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianNafis&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianNafis&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
-<!-- Top Languages Card pakai chartreuse-dark -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNafis&theme=chartreuse-dark&layout=compact" alt="Top Languages" />
-</p>
-
-<!-- Repo Card (Contoh) pakai algolia -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrianNafis&repo=namarepomu&theme=algolia" alt="Repo Card" />
+  <img src="https://streak-stats.demolab.com/?user=BrianNafis&theme=algolia" alt="GitHub Streak" />
 </p>

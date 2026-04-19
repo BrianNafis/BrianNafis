@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 <p align="center">
   <a href="...">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-</a>&nbsp;&nbsp;&nbsp
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" alt="LinkedIn" width="40" />
+</a>&nbsp;
   <a href="mailto:...">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;

@@ -43,11 +43,19 @@ Here are some ideas to get you started:
 ## 🧠 My Focus Areas
 - AI/ML Research
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://id.linkedin.com/in/brian-nafis-917454216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian nafis" height="30" width="40" /></a>
-</p>
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="...">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+</a>&nbsp;&nbsp;&nbsp
+  <a href="mailto:...">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="...">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
 <!--## 📊 GitHub Stats & Trophies
 <p align="center">

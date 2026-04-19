@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Brian Nafis">
-    <img src="https://komarev.com/ghpvc/?username=Brian Nafis&label=Profile%20views&color=00FFFF&style=flat-square" alt="Brian Nafis's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=BrianNafis">
+    <img src="https://komarev.com/ghpvc/?username=BrianNafis&label=Profile%20views&color=00FFFF&style=flat-square" alt="Brian Nafis's profile views" /> 
   </a>
 </p>
 

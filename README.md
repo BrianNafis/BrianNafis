@@ -20,13 +20,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=hi%20yow" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=BrianNafis">
-    <img src="https://komarev.com/ghpvc/?username=BrianNafis&label=Profile%20views&color=00FFFF&style=flat-square" alt="Brian Nafis's profile views" /> 
-  </a>
-</p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briannafis&label=Profile%20views&color=0e75b6&style=flat" alt="briannafis" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briannafis" alt="briannafis" /></a> </p>

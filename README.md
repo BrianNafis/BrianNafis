@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 📊 GitHub Stats & Trophies
+<!--## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Brian Nafis">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian Nafis&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Brian Nafis's GitHub Stats" />
@@ -58,61 +58,56 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Brian Nafis&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="hi I'am Brian Nafis's GitHub Trophies" />
+</p> -->
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
 
-###
+</p>
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit_learn logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow logo" />
-</div>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Brian Nafis">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian Nafis&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briannafis&show_icons=true&locale=en&layout=compact" alt="briannafis" /></p>
 

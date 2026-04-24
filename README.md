@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [...](...)
 
-- 📫 How to reach me **mbrnfs@gmail.com**
+- 📫 How to reach me **mbrnfs22@gmail.com**
 
 
 ## 🧠 My Focus Areas
